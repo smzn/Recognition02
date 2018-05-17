@@ -15,7 +15,7 @@ public class Recognition02_main {
 		// TODO Auto-generated method stub
 		
 		VisualRecognition service = new VisualRecognition("2018-03-19");
-		service.setApiKey("85da8b99eec051cb1c8beb70582a20915c2886ba");
+		service.setApiKey("naisyo");
 
 		InputStream imagesStream = null;
 		try {
